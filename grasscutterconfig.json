@@ -1,0 +1,15 @@
+[
+    {
+        "DisplayName": "Server JAR",
+        "Category": "Startup",
+        "Description": "Select the server JAR",
+        "Keywords": "jar",
+        "FieldName": "-jar",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "-jar",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "grasscutter.jar",
+        "EnumValues": {}
+    }
+]
